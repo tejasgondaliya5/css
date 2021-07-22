@@ -1,0 +1,154 @@
+body {
+  background: black;
+  color: white;
+}
+.class {
+  border-style: solid;
+  border-top: dotted;
+  border-width: "10px";
+  border-radius: 12px;
+  border-color: rgb(178, 34, 135);
+}
+
+#p1 {
+  color: red;
+  background-color: wheat;
+  font-size: xx-large;
+  font-style: inherit;
+  align-content: center;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.nav {
+  background: rgb(235, 73, 9);
+  margin-top: 50px;
+  padding: 20px;
+  font-size: 20px;
+}
+
+/* .ulist {
+  background: rgb(188, 216, 32);
+  list-style-type:none;
+} */
+
+.item {
+    color: black;
+  list-style-type: none;
+  display: inline;
+  
+}
+
+.cls{
+    background:rgb(178, 34, 135);
+    text-align: center;
+    border-radius: 10px;
+    margin-right: 750px;
+    border-style:ridge;
+    margin-top: 10px;
+
+}
+
+.class{
+    /* margin in oneline top, right, bottom, left */
+    margin: 20px 30px 20px 50px;
+}
+
+.pc1{
+    margin-left: 250px;
+    margin-right: 290px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-style: ridge;
+    border-color:rgb(11, 228, 145);
+}
+
+.pc2{
+    background: salmon;
+    text-align: center;
+    border-radius: 25px;
+    border-style:dotted;
+    border-color: black;
+    margin: auto;
+    width: 30%;
+    /* height: 50px; */
+}
+
+.pc3{
+    background: blue;
+    text-align: center;
+    border-radius: 15px;
+    border-style: ridge;
+    margin: auto;
+    margin-top: 10px;
+    width: 20%;
+    height: 20px;
+    
+}
+.pc3{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.pc4{
+    background:rgb(162, 226, 13);
+    color: brown;
+    border-style: dotted;
+    border-radius: 15px;
+    text-align: center;
+    margin: 10px 150px 10px 200px;
+    padding: auto;
+    padding-top: 40px;
+    width: 50%;
+    height: 50px;
+}
+
+.pc5{
+    background:darkorchid;
+    text-align: center;
+    border-style:ridge;
+    border-color:forestgreen;
+    margin: 10px 200px 10px 150px;
+    outline: 2px solid gainsboro;
+
+}
+
+.pc6{
+    background: gray;
+    text-align: left;
+    margin: 10px 50px 10px 50px;
+    border-style: ridge;
+    border-color:white;
+    text-decoration: underline;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-shadow:currentColor;
+    direction:ltr;
+}
+
+.pc7{
+    border-style: solid;
+    border-color:purple;
+    font-family: sans-serif;
+    font-style: oblique;
+    font-size: 2.0vw;
+}
+
+a{
+    color: seashell;
+    text-decoration: none;
+}
+a:hover{
+    background-color:white;
+    color: blue;
+    font-size: 1.4vw;
+}
+
+a:active{
+    font-size: 1.4vw;
+}
+
+

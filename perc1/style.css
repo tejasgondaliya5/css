@@ -1,0 +1,25 @@
+li, div{
+    color: blue;
+}
+
+.cls{
+    background-color: cadetblue;
+    font-size:xx-large;
+}
+
+body{
+    
+    background-image: url(../img/back.jpg);
+    background-repeat: no-repeat;
+
+    background-position: left top;
+    /* bg attechment ne fix karya pachi scroll karo to pan te imag tyaj rey. */
+    background-attachment: fixed
+    
+}
+body{
+    /* one lien use background color image repeat or not possition. */
+    background: #ff0000 url("../img/back.jpg") no-repeat right top;
+}
+
+
